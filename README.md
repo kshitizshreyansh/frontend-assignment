@@ -5,10 +5,14 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/product-app.git
-   cd product-app
-
+2. Install npm:
+   ```bash
     npm install or npm i --legacy-peer-deps
 
+3. Start npm:
+   ```bash
     npm start
 
-    Open http://localhost:3000 in your browser.
+4. Access the page:
+   ```bash
+   Open http://localhost:3000 in your browser.
